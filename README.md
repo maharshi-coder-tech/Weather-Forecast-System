@@ -10,10 +10,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Demo](https://raw.githubusercontent.com/iondrimba/images/master/weather.gif?raw=true)
 
-## About
-
-This is a personal project built in my spare time for learning purposes.
-
 ### APIs
 
 * <https://api.ipify.org/?format=json> - IP search
